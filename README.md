@@ -6,7 +6,11 @@ For this project, the company that I correspond to is looking to expand their in
 ## Business Problem
 Explore what types of films are currently doing the best at the box office and then translate those findings into actionable insights that the head of your company's new movie studio can use to help decide what type of films to create in order to have success in this new endevour.
 ## Data Preparation & Analysis
+This project will consist of working with data from different files that include Box Office Mojo, The Numbers, and IMDB that contain different information on movies in the past years including film name, rating, genre, studio, production budget, and much more.
+### Examine Relationship Between Film Budget and Overall Gross
+<img width="581" alt="Screenshot 2024-03-03 021807" src="https://github.com/bvalencia07/Film_Success_Analysis/assets/149977850/119fd8f7-7e9d-4989-988b-7204e26a510c">
 
+### Explore 
 ## Results
 
 ## Conclusion
