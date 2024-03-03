@@ -25,5 +25,5 @@ From the results that were found one can suggest to their fellow stakeholders th
 
 -Seeing that collaboration in film making is very common in the industry, the studios that should be taken into consideration for co-production are Dream Works, Buena Vista, and Warner Bros.
 
--Based on the results from the study into different genres, we can see that documentary style and bio-pic type of movies tend to be the genres with the highest overall satisfaction rating from the views, so we could say that those genres are the safer option when it comes to viewer satisfaction. While horror is the riskiest genre to get right as it seems to be the genre with the overall lowest viewer rating.
+-Based on the results from the study into different genres, we can see that documentary style and bio-pic type of movies tend to be the genres with the highest overall satisfaction rating from the viewers, so we could say that those genres are the safer option when it comes to viewer satisfaction. While horror is the riskiest genre to get right as it seems to be the genre with the overall lowest viewer rating.
 ![cinema_2](https://github.com/bvalencia07/Film_Success_Analysis/assets/149977850/9f15ed96-6fc4-4312-b051-68339eafcb2b)
