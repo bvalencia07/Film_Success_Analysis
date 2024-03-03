@@ -4,7 +4,7 @@
 ## Overview
 For this project, the company that I correspond to is looking to expand their into the film industry. Seeing how so many other big companies are now creating original film content, they are looking to also get into the mix as well. However, they do not know anything about creating movies.
 ## Business Problem
-
+Explore what types of films are currently doing the best at the box office and then translate those findings into actionable insights that the head of your company's new movie studio can use to help decide what type of films to create in order to have success in this new endevour.
 ## Data Preparation & Analysis
 
 ## Results
