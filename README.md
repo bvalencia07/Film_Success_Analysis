@@ -17,7 +17,7 @@ This project will consist of working with data from different files that include
 <img width="602" alt="Screenshot 2024-03-03 021629" src="https://github.com/bvalencia07/Film_Success_Analysis/assets/149977850/bc6988a4-da59-4623-a6f9-1f466d25101e">
 
 ## Results
-
+After this extensive exploration we can conclude a few things from the data at hand. The first is that there seems to be a strong positive correlation between the production budget and a film's overall gross. Secondly, it appears that the movie studios with the most success are Dream Works, Buena Vista, and Warner Bros. Lastly, we can see that viewers tend to give documentary and bio-pic style of movies a higher overall rating in comparison to genres such as horror.
 ## Conclusion
 
 ![cinema_2](https://github.com/bvalencia07/Film_Success_Analysis/assets/149977850/9f15ed96-6fc4-4312-b051-68339eafcb2b)
