@@ -10,7 +10,12 @@ This project will consist of working with data from different files that include
 ### Examine Relationship Between Film Budget and Overall Gross
 <img width="581" alt="Screenshot 2024-03-03 021807" src="https://github.com/bvalencia07/Film_Success_Analysis/assets/149977850/119fd8f7-7e9d-4989-988b-7204e26a510c">
 
-### Explore 
+### Explore Most Successful Film Studios
+<img width="597" alt="Screenshot 2024-03-03 021727" src="https://github.com/bvalencia07/Film_Success_Analysis/assets/149977850/3ff04b65-4a83-4f40-be18-341dd7611fbe">
+
+### Examine Relationship Between Genre and Viewer Rating
+<img width="602" alt="Screenshot 2024-03-03 021629" src="https://github.com/bvalencia07/Film_Success_Analysis/assets/149977850/bc6988a4-da59-4623-a6f9-1f466d25101e">
+
 ## Results
 
 ## Conclusion
